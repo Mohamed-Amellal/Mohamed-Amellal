@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer<br>Building scalable web apps using NestJS, Django & Supabase  <br>Currently working on AI Chat System
+Full stack developer focused on Backend Development<br>Building scalable web apps usingn NextJS NestJS, Django,SpringBoot & Supabase
 
 
 ## 🌐 Socials:
